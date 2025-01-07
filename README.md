@@ -2,8 +2,6 @@
 
 A modern, interactive fitness tracking application built with React and TypeScript. Track your workouts, monitor progress, and stay motivated with a beautiful user interface.
 
-![Fitness Tracker Demo](https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&q=80&w=2874)
-
 ## Features
 
 - **Workout Management**
@@ -31,13 +29,9 @@ A modern, interactive fitness tracking application built with React and TypeScri
 
 ## Screenshots
 
-### Dashboard
-![Dashboard](https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=2940)
-*Main dashboard showing workout summary and stats*
+![image](https://github.com/user-attachments/assets/b9b52e44-e39a-43f2-9f76-aa12d1cfd52f)
+![image](https://github.com/user-attachments/assets/c929fed5-6149-4c61-8287-da517e7e86f8)
 
-### Workout Form
-![Add Workout](https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&q=80&w=2940)
-*Add new workouts with an intuitive form*
 
 ## Getting Started
 
