@@ -37,7 +37,7 @@ A modern, interactive fitness tracking application built with React and TypeScri
 
 1. Clone the repository
 ```bash
-git clone [[repository-url]](https://github.com/omarelleuch/fitness_tracker)
+git clone https://github.com/omarelleuch/fitness_tracker
 ```
 
 2. Install dependencies
@@ -69,6 +69,3 @@ src/
 4. Push to the branch
 5. Open a Pull Request
 
-## License
-
-MIT License - feel free to use this project for your own learning!
